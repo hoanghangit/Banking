@@ -1,2 +1,2 @@
-# reserch
-# All the project i do when i study DS
+# research
+# Optimization sharpe ratio
